@@ -1,45 +1,25 @@
-# 👋 Hey, I'm **Shreyank Mishra**
+## 👋 Hi, I'm Shreyank
+## 💻 B.Tech CSE Student | Beginner Developer
 
-A future-driven developer who loves creating intelligent systems, exploring automation, and building advanced AI behavior using **Python** and **C**.
+I’m currently learning programming and building my foundation in software development.
+Focused on improving step by step and gaining practical experience.
 
-I believe in innovation, breaking limits, and writing code that feels alive.
+## 🧠 About Me
+🎓 B.Tech in Computer Science (REC Kannauj)
+📘 Currently learning Python
+🎯 Goal: Become a skilled developer by building real projects
 
----
+## 🚀 Projects
+📌 I will be adding projects here as I learn and build
+🔧 Currently working on improving my coding fundamentals
 
-## 🚀 Featured Project  
-### 🧠 **SophieAI — Voice-Powered Desktop AI Assistant**
-A custom-built personal assistant for Windows with:
-- Wake-word detection  
-- English/Hindi speech recognition  
-- Local TTS  
-- GPT-powered fallback  
-- Memory system  
-- Web search + summarizer  
-- Excel automation (dynamic Python code execution)  
-- OS automation (apps, shutdown, restart, etc.)
-
-🔗 **Repo:** [SophieAI](https://github.com/nishua1d25005/SophieAI)
-
----
-
-## 🛠️ Skills & Tools
-- **Languages:** Python, C  
-- **AI/NLP:** Wake-word models, TTS, Speech Recognition  
-- **Libraries:** Pyttsx3, SpeechRecognition, BeautifulSoup, OpenAI API  
-- **Dev Tools:** Git, GitHub, VS Code  
-- **OS Automation:** Windows automation, batch commands  
-
----
-
-## 🌱 Currently Building
-- A modular AI core  
-- Better real-time memory  
-- Offline LLM integration  
-- Smart command routing engine  
-- Faster wake-word loop  
-
----
+## ⚙️ Tools & Technologies
+Languages:   Python (learning)
+Tools:       VS Code, GitHub
 
 ## 📫 Contact  
 Reach me via GitHub Discussions or issues in my repos.
 You can also email me at shreyankmishra91@gmail.com
+
+## ⚡ Note
+This profile will grow as I learn, build, and improve consistently.
