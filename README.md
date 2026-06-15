@@ -6,7 +6,7 @@ Focused on improving step by step and gaining practical experience.
 
 ## 🧠 About Me
 🎓 B.Tech in Computer Science (REC Kannauj)
-📘 Currently learning Python
+📘 Currently learning Python, C
 🎯 Goal: Become a skilled developer by building real projects
 
 ## 🚀 Projects
@@ -14,7 +14,7 @@ Focused on improving step by step and gaining practical experience.
 🔧 Currently working on improving my coding fundamentals
 
 ## ⚙️ Tools & Technologies
-Languages:   Python (learning)
+Languages:   Python (learning), C, HTML
 Tools:       VS Code, GitHub
 
 ## 📫 Contact  
